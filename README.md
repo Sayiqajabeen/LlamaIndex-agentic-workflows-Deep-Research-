@@ -56,13 +56,13 @@ llamaindex-agentic-workflows/
  | Layer                  | Technology / Library         | Purpose                                                                 |
  |------------------------|------------------------------|-------------------------------------------------------------------------|
  | **Language**           | Python 3.x                   | Core programming language                                               |
- | **LLM Backend**        | OpenAI GPT (`openai` package)| Powers the agent's reasoning and generation                            |
- | **Agentic Framework**  | LlamaIndex                   | Agent orchestration, memory, and tool integration                      |
- | **Env Management**     | python-dotenv                | Loads API keys securely from a `.env` file                             |
- | **Data Handling**      | pandas                       | Data manipulation and structured outputs                               |
- | **Visualization**      | matplotlib                   | For generating plots or charts (if applicable)                         |
- | **Development Interface** | Jupyter Notebook         | Initial format for interactive coding (converted to `.py` script)      |
- | **Package Management** | pip                          | Installs all required Python libraries                                 |
+ | **LLM Backend**        | OpenAI GPT (`openai` package)| Powers the agent's reasoning and generation                             |
+ | **Agentic Framework**  | LlamaIndex                   | Agent orchestration, memory, and tool integration                       |
+ | **Env Management**     | python-dotenv                | Loads API keys securely from a `.env` file                              |
+ | **Data Handling**      | pandas                       | Data manipulation and structured outputs                                |
+ | **Visualization**      | matplotlib                   | For generating plots or charts (if applicable)                          |
+ | **Deve Interface**     | Jupyter Notebook             | Initial format for interactive coding (converted to `.py` script)       |
+ | **Package Management** | pip                          | Installs all required Python libraries                                  |
 
 
 

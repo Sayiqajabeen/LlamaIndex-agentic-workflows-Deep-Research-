@@ -1,0 +1,15 @@
+python-dotenv
+openai
+tavily-python 
+llama-index
+#pip install --upgrade llama-index llama-index-agent-openai
+#pip install --upgrade llama-index llama-index-llms-groq 
+#pip install --upgrade llama-index 
+#pip install llama-index llama-index-agent-openai llama-index-core
+#pip install llama-index-experimental
+#pip install llama-index llama-index-core llama-index-readers llama-index-agent-openai openai
+#pip install llama-index llama-index-core llama-index-agent-openai
+#pip install llama-index llama-index-agent-openai nest_asyncio python-dotenv
+#pip install llama-index-llms-groq llama-index-tools-tavily-research
+#pip install llama-index-llms-groq
+#pip install nest_asyncio
